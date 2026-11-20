@@ -154,4 +154,4 @@ cfpp-heat-rate-analysis/
 **Retnaning Dwi Wulandari**
 Physics graduate (Instrumentation Electronics) from Institut Teknologi Sepuluh Nopember, Indonesia, with internship experience in instrumentation and control at a coal-fired power plant.
 
-[LinkedIn](www.linkedin.com/in/retnaning-dwi-wulandari)
+[LinkedIn](https://www.linkedin.com/in/retnaning-dwi-wulandari)
