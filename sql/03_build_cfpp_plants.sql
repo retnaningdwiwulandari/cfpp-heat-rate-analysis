@@ -183,7 +183,7 @@ SELECT
 FROM `rdw-data-projects.cfpp_eia.cfpp_plants`;
 
 
--- Check 6 (sample): Trimble County checked by hand against EIA-860.
+-- Check 5 (sample): Trimble County checked by hand against EIA-860.
 -- Coal units: unit 1 (566.1 MW, 1990, subcritical) and unit 2 (834 MW, 2011, supercritical).
 SELECT
   plant_id,
