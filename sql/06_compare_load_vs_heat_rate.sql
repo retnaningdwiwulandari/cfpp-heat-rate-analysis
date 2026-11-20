@@ -1,7 +1,7 @@
 -- 06_compare_load_vs_heat_rate.sql
 -- Project: Heat rate analysis of US coal-fired power plants (EIA 2025)
 -- Question: Does running at low load raise heat rate?
--- Problem: comparing plants mixes two effects: low load may raise heat rate, OR inefficient plants may simply be dispatched less?
+-- Problem: comparing plants mixes two effects: low load may raise heat rate, OR inefficient plants may simply be dispatched less.
 -- Method: compare each plant with ITSELF. For every plant-month,
 --         calculate the monthly capacity factor and the % difference
 --         between monthly and the plant's own annual heat rate.
