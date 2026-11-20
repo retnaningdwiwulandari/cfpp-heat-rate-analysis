@@ -152,6 +152,6 @@ cfpp-heat-rate-analysis/
 ## Author
 
 **Retnaning Dwi Wulandari**
-Physics graduate (Instrumentation Electronics) from Institut Teknologi Sepuluh Nopember, Indonesia, with internship experience in instrumentation and control at a coal-fired power plant.
+Physics graduate (Electronic Instrumentation) from Institut Teknologi Sepuluh Nopember, Indonesia, with internship experience in instrumentation and control at a coal-fired power plant.
 
 [LinkedIn](https://www.linkedin.com/in/retnaning-dwi-wulandari)
