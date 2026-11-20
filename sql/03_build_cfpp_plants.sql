@@ -1,7 +1,7 @@
 -- 03_build_cfpp_plants.sql
 -- Project: Heat rate analysis of US coal-fired power plants (EIA 2025)
 -- Goal: Build one row per coal plant with annual heat rate, unit details from EIA-860, peer group, and analysis flags.
--- Input: cfpp_monthly, raw_923_genfuel_2025, raw_860_generator_operable_2025,raw_860_generator_retired_2025, raw_860_plant_2025.
+-- Input: cfpp_monthly, raw_923_genfuel_2025, raw_860_generator_operable_2025, raw_860_generator_retired_2025, raw_860_plant_2025.
 -- Key rule: every source is summarized to 1 row per plant BEFORE the join, so the join cannot duplicate rows.
 -- Flags: in_analysis = has heat rate AND coal share >= 90%
 --                      AND net generation >= 100,000 MWh
