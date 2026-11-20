@@ -6,7 +6,7 @@
 --           rate; plants at or below the median contribute 0.
 --           The median is used because half of similar plants already
 --           achieve it, so the target is proven to be reachable.
--- Assumptions (external datas, see the assumptions CTE):
+-- Assumptions (external data, see the assumptions CTE):
 --   CO2 factor 95.52 kg/MMBtu  EPA GHG Emission Factors Hub 2025, coal, mixed (electric power sector)
 --   Coal cost  2.41 USD/MMBtu  EIA Electric Power Annual, Table 7.17, 2025, electric power sector average
 
