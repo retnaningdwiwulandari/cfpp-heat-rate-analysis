@@ -1,5 +1,5 @@
 -- 01_explore_raw_data.sql
--- Project : Heat rate analysis of US coal-fired power plants (EIA 2025)
+-- Project: Heat rate analysis of US coal-fired power plants (EIA 2025)
 -- Goal: Explore raw EIA-923 data before cleaning. Every "Decision" below becomes a cleaning rule in 02_clean_cfpp_monthly.sql.
 -- Input: raw_923_genfuel_2025 (18,889 rows; 1 row = plant x prime mover x fuel type, with monthly values as columns)
 
